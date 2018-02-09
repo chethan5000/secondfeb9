@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E483-205E
+
+ Directory of C:\Users\VIVEK\Desktop\myproject
+
+02/09/2018  03:55 PM    <DIR>          .
+02/09/2018  03:55 PM    <DIR>          ..
+02/09/2018  03:55 PM                 0 mytest.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  328,903,938,048 bytes free
